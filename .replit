@@ -1,2 +1,2 @@
-language = "Bash"
-run = ""
+language = "python3"
+run = "python section2/rep_value/rep_value.py"
