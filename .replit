@@ -1,2 +1,2 @@
 language = "python3"
-run = "python section2/rep_value/rep_value.py"
+run = "python section2/sum_positional_num/sum_positional_num.py"
