@@ -1,2 +1,2 @@
 language = "python3"
-run = "python section2/cal_score/cal_score.py"
+run = "python section8/cut_network/cut_network_top_down.py"
