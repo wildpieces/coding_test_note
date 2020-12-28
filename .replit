@@ -1,2 +1,2 @@
 language = "python3"
-run = "python section5/emergency_room_que/emergency_room_que.py"
+run = "python section7/break_down_coin/break_down_coin.py"
