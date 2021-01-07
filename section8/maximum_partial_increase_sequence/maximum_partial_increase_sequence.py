@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("section8/maxmum_partial_increase_sequence/in1.txt", "rt")
+sys.stdin = open("section8/maximum_partial_increase_sequence/in1.txt", "rt")
 
 n = int(input())
 arr = list(map(int, input().split()))

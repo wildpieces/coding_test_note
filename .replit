@@ -1,2 +1,2 @@
 language = "python3"
-run = "python section7/break_down_coin/break_down_coin.py"
+run = "python section3/hourglass/hourglass.py"
